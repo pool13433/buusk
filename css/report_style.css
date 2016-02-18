@@ -1,0 +1,20 @@
+table {
+    width:100%;
+    border : 1px solid #000;
+    border-collapse:collapse;
+}
+
+table tr th {
+    padding:10px;
+    border : 1px solid #000;
+    border-collapse:collapse;
+}
+table tr td {
+    padding:10px;
+    border : 1px solid #000;
+    border-collapse:collapse;    
+}
+body{
+    font-family: 'thsarabun';
+    font-size: 16px;
+}
